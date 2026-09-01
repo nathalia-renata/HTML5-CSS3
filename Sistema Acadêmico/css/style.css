@@ -1,0 +1,28 @@
+ h1 {
+    font-size: 20px;
+    text-align: center;
+ }
+.link {
+    position: relative;
+} 
+ div a {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: none;
+    position: absolute;
+    right: 50%;
+ }
+
+.image{
+    position: relative;
+
+ }
+
+ div img {
+    position: absolute;
+    text-align: center;
+    width: 300px;
+    right: 50%;
+    position: fixed;
+    bottom: 30px        ;
+ }

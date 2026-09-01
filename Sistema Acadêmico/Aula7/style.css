@@ -1,0 +1,33 @@
+div{
+    background: plum;
+    width: 200px;
+    height: 200px;
+    padding: 40px;
+    border: 20px  solid blue;
+    margin: 80px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+p{
+    background: skyblue;
+    width: 300px;
+    height: 200px;
+    padding: 30px;
+    border: 20px  solid pink;
+    margin: 80px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+body{
+    text-align: center;
+    background-color: rgb(232, 214, 246);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

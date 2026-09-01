@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: rgb(232, 214, 246);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.tabela{
+    margin: 0 auto;
+    align-items: center;
+   
+}

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.padrao {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px;
+}
+nav {
+    background-color: blueviolet;
+}
+header {
+    background-color: royalblue;
+    height: 300px;
+}
+section {
+    background-color: pink;
+    width: 100%;
+}
+aside {
+    background-color: burlywood;
+}
+footer {
+    background-color: brown;
+}
+.container-principal {
+    width: 100%;
+    background-color: aquamarine;
+    display: flex; 
+}
+.container-esquerdo {
+    width: 80%;
+}
+.container-row {
+    display: flex;
+    
+}
